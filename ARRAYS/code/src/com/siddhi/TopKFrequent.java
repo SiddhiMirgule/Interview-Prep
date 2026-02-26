@@ -27,4 +27,8 @@ public class TopKFrequent {
 
         return res;
     }
+
+    public static void main(String[] args) {
+
+    }
 }

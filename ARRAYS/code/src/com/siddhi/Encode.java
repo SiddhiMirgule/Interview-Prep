@@ -1,7 +1,7 @@
 //https://neetcode.io/problems/string-encode-and-decode/question?list=blind75
 package com.siddhi;
-
-public class Encode {
+import java.util.*;
+public class Encode{
     public String encodeString(List<String> strs) {
         StringBuilder sb = new StringBuilder();
         for (String s : strs) {
@@ -23,6 +23,10 @@ public class Encode {
         }
         return result;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
 
-}
+

@@ -2,7 +2,7 @@
 package com.siddhi;
 
 public class Product {
-    class Solution {
+
         public int[] productExceptSelf(int[] nums) {
             int n = nums.length;
             int[] result = new int[n];
@@ -22,5 +22,8 @@ public class Product {
 
             return result;
         }
+
+    public static void main(String[] args) {
+
     }
-}
+    }

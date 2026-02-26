@@ -25,5 +25,9 @@ public class LongestConsecutive {
 
         return longest;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
 
