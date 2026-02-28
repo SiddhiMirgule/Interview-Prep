@@ -1,4 +1,4 @@
-# Interview-Prep
+# DSA
 
 Java DSA | Algorithms | Problem-solving | Interview Prep
 
