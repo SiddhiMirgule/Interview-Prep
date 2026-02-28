@@ -1,4 +1,4 @@
-# Practising  DSA
+# DSA
 
 Java DSA | Algorithms | Problem-solving | Interview Prep
 
