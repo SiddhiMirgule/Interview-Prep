@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ARRAYS/code/code/..iml" filepath="$PROJECT_DIR$/ARRAYS/code/code/..iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Arrays/code/code/..iml" filepath="$PROJECT_DIR$/01_Arrays/code/code/..iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Interview-Prep.iml" filepath="$PROJECT_DIR$/.idea/Interview-Prep.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ARRAYS/code/sr2/src.iml" filepath="$PROJECT_DIR$/ARRAYS/code/sr2/src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Arrays/code/sr2/src.iml" filepath="$PROJECT_DIR$/01_Arrays/code/sr2/src.iml" />
     </modules>
   </component>
 </project>
